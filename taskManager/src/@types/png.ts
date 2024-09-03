@@ -1,0 +1,1 @@
+declare module "*.png" /* para poder usar uma imagem PNG sem ficar sublinhado de vermelho no codigo */
